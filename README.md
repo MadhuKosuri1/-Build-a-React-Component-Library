@@ -93,7 +93,7 @@ const [open, setOpen] = useState(false);
 </Modal>;
 ```
 
-## 5
+---
 
 ### 4. **Input**
 
@@ -124,7 +124,7 @@ import { Input } from "./components";
 
 ---
 
-### 4. **Alert**
+### 5. **Alert**
 
 A dismissible alert component for notifications and messages.
 
@@ -183,7 +183,6 @@ src/
 ├── Card.tsx         # Card components (Card, CardHeader, CardBody, CardFooter)
 ├── Modal.tsx        # Modal component
 ├── Input.tsx        # Input component
-├── Badge.tsx        # Badge component
 ├── Alert.tsx        # Alert component
 └── index.ts         # Main export file
 ```
